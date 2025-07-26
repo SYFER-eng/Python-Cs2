@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Default",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Python-Cs2/refs/heads/main/Lunar_syfer/Themes/Default.gif"
+  },
+  {
+    "name": "Luffy in the Shadows",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Python-Cs2/refs/heads/main/Lunar_syfer/Themes/Luffy%20in%20the%20Shadows.gif"
+  },
+  {
+    "name": "Pokemon Room",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Python-Cs2/refs/heads/main/Lunar_syfer/Themes/Pokemon%20Room.gif"
+  }
+]
